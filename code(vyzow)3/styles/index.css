@@ -120,13 +120,13 @@ nav a{
 
 .artist{
     width: 18rem;
-    background-color: white;;
+    background-color: white;
     padding:1rem;
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
     border-radius: 1rem;
-    border:#2d1106 5px solid;
+    border: #2d1106 5px solid;
     text-align: center;
     justify-content: center;
     justify-items: center;
